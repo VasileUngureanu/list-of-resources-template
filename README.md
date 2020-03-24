@@ -1,18 +1,14 @@
-# Repository Template
+# List Of Resources Template
 
 <a href="https://github.com/VasileUngureanu/repository-template/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
 
-> A template for creating new repositories
+> A template for creating new repositories in the form of a list of resources
 
-This repository is meant to serve as a template for how to set up new general purpose repositories.
+There are hundreds and thousands of resources on the internet for this topic, but only a few of them have a high concentration of valuable content.
 
-## What's included
+## Contents
 
-* Issue & Pull Request Templates
-* CODE_OF_CONDUCT.md
-* CONTRIBUTING.md
-* LICENSE
-* README.md
+* []()
 
 ## Usage
 
@@ -22,4 +18,4 @@ This repository is meant to serve as a template for how to set up new general pu
 License
 -------
 
-[MIT](LICENSE) @ 2019 Vasile Ungureanu
+[MIT](LICENSE) @ 2020 Vasile Ungureanu
